@@ -14,7 +14,12 @@
 </dl>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cancaliskann&" alt="cancaliskann" />
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=cancaliskann&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cancaliskann&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
